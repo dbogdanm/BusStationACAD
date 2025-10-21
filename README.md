@@ -53,17 +53,4 @@ Basic materials and textures were applied for realism.
 ![image alt](https://github.com/dbogdanm/BusStationACAD/blob/main/statie1.png?raw=true)
 ![image alt](https://github.com/dbogdanm/BusStationACAD/blob/main/statie2.png?raw=true)
 ![image alt](https://github.com/dbogdanm/BusStationACAD/blob/main/statie3.png?raw=true)
-
-### Overall Scene
-| Isometric View | Left Side View |
-| :---: | :---: |
-| ![Overall isometric view of the bus stop and road](path/to/figure-45.png) | ![Left side view of the project](path/to/figure-47.png) |
-
-| Front View | Rear View |
-| :---: | :---: |
-| ![Front-on elevation view](path/to/figure-46.png) | ![Rear perspective view](path/to/figure-48.png) |
-
-### Component Details
-| Bench Model | Camera Model | Roof Assembly |
-| :---: | :---: | :---: |
-| ![Render of the 3D bench model](path/to/figure-9.png) | ![Detail of the 3D surveillance camera model](path/to/figure-32.png) | ![View of the roof with solar panels](path/to/figure-28.png) |
+ More project photos can be found in the documentation.
