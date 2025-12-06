@@ -6,7 +6,6 @@ Faculty project of "Universitate" bus station located in Bucharest made in AutoC
 <div align="center">
 
 ![Status](https://img.shields.io/badge/Maintained%3F-no-red.svg?style=flat-square)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 ![Repo Size](https://img.shields.io/github/repo-size/dbogdanm/BusStationACAD?style=flat-square)
 
 <br/>
