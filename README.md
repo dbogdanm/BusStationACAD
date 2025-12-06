@@ -3,7 +3,19 @@ Faculty project of "Universitate" bus station located in Bucharest made in AutoC
 
 # CAD Project: 3D Bus Stop Model
 
-![AutoCAD](https://img.shields.io/badge/Software-AutoCAD-blue.svg)
+<div align="center">
+
+![Status](https://img.shields.io/badge/Maintained%3F-no-red.svg?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+![Repo Size](https://img.shields.io/github/repo-size/dbogdanm/BusStationACAD?style=flat-square)
+
+<br/>
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Drafting](https://img.shields.io/badge/Skill-2D%20Drafting-lightgrey?style=for-the-badge)
+![Design](https://img.shields.io/badge/Design-Architecture-orange?style=for-the-badge)
+
+</div>
 
 This repository contains a 3D model of a modern bus stop, created as a project for the "Computer-Aided Design" course at the University of Bucharest. The primary focus was on the technical execution and 3D modeling process using Autodesk AutoCAD.
 
